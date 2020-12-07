@@ -1,0 +1,11 @@
+C:\Users\gurpreet.singh\Desktop\parent\ParentChildChecker\ParentChildChecker\bin\Debug\ParentChildChecker.dll
+C:\Users\gurpreet.singh\Desktop\parent\ParentChildChecker\ParentChildChecker\bin\Debug\ParentChildChecker.pdb
+C:\Users\gurpreet.singh\Desktop\parent\ParentChildChecker\ParentChildChecker\bin\Debug\Newtonsoft.Json.dll
+C:\Users\gurpreet.singh\Desktop\parent\ParentChildChecker\ParentChildChecker\bin\Debug\RightNow.AddIns.AddInViews.dll
+C:\Users\gurpreet.singh\Desktop\parent\ParentChildChecker\ParentChildChecker\bin\Debug\Newtonsoft.Json.xml
+C:\Users\gurpreet.singh\Desktop\parent\ParentChildChecker\ParentChildChecker\bin\Debug\RightNow.AddIns.AddInViews.xml
+C:\Users\gurpreet.singh\Desktop\parent\ParentChildChecker\ParentChildChecker\obj\Debug\ParentChildChecker.Properties.Resources.resources
+C:\Users\gurpreet.singh\Desktop\parent\ParentChildChecker\ParentChildChecker\obj\Debug\ParentChildChecker.csproj.GenerateResource.cache
+C:\Users\gurpreet.singh\Desktop\parent\ParentChildChecker\ParentChildChecker\obj\Debug\ParentChildChecker.csproj.CopyComplete
+C:\Users\gurpreet.singh\Desktop\parent\ParentChildChecker\ParentChildChecker\obj\Debug\ParentChildChecker.dll
+C:\Users\gurpreet.singh\Desktop\parent\ParentChildChecker\ParentChildChecker\obj\Debug\ParentChildChecker.pdb
